@@ -9,30 +9,13 @@ utils.py: Utility functions for drawing colored backgrounds and text on images.
 
 
 ## Installation
-#### Clone the repository:
+#### **Clone the repository**:
+```bash git clone https://github.com/your-repo/eye-tracking.git
+#### **Install the required dependencies**:
 ```bash
+pip install -r requirements.txt
 
-git clone https://github.com/your-repo/eye-tracking.git
 
-
-## Requirements
-
-The application requires the following Python packages:
-
-- `numpy`
-- `opencv-python`
-- `mediapipe`
-- `utils` (Ensure `utils.py` is available in your project directory)
-
-Install the dependencies using the following command:
-```bash
-  pip install -r requirements.txt
-/n
-## Installation
-
-1. **Clone the Repository:**
-   ```bash
-  git clone <repository-url>
 
 
 
