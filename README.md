@@ -21,10 +21,9 @@ The application requires the following Python packages:
 - `utils` (Ensure `utils.py` is available in your project directory)
 
 Install the dependencies using the following command:
-
 ```bash
   pip install -r requirements.txt
-
+/n
 ## Installation
 
 1. **Clone the Repository:**
