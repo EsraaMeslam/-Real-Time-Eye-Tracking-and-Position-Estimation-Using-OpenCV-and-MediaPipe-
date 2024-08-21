@@ -29,24 +29,7 @@ pip install -r requirements.txt
 
 
 
-
-## Installation
-
+Installation
 Follow these steps to set up and run the application:
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone <repository-url>
-2. **Navigate to the Project Directory:**
- ```bash
-cd <project-directory>
-
-
-
-Execute the script to start the application:
-
-bash
-Copy code
-python main.py
-The application will open a window displaying the video feed with real-time eye tracking and position estimation.
+Clone the Repository:
