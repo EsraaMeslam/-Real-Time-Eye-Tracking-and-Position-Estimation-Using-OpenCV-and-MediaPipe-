@@ -26,3 +26,41 @@ Install the dependencies using the following command:
 
 ```bash
 pip install -r requirements.txt
+
+
+
+
+Installation
+Clone the Repository:
+
+bash
+Copy code
+git clone <repository-url>
+Navigate to the Project Directory:
+
+bash
+Copy code
+cd <project-directory>
+Install Dependencies:
+
+Make sure you have Python installed. If not, download and install it from python.org. Install the required dependencies using:
+
+bash
+Copy code
+pip install -r requirements.txt
+Add the utils.py File:
+
+Ensure you have a utils.py file in your project directory. This file should contain utility functions referenced in the code.
+
+Prepare Your Video File:
+
+Ensure that you have a video file named eye.mp4 in your project directory, or modify the cv2.VideoCapture path in the code to point to your video file.
+
+Run the Application:
+
+Execute the script to start the application:
+
+bash
+Copy code
+python main.py
+The application will open a window displaying the video feed with real-time eye tracking and position estimation.
