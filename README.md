@@ -1,15 +1,19 @@
 # Real-Time Eye Tracking and Position Estimation
 
 ## Overview
+This project implements a real-time eye-tracking system using OpenCV and MediaPipe. The code tracks the user's eye position (left, right, or center) and displays it on the screen. The system works by detecting facial landmarks, extracting eye regions, and estimating the eye's position based on pixel analysis.
 
-This project is a real-time eye tracking and position estimation application that utilizes computer vision techniques. By employing OpenCV for image processing and MediaPipe for face mesh detection, the application can accurately estimate eye positions and display them in real-time. It is useful for various applications such as user interaction systems and eye-tracking studies.
+## Files
+Eye_Tracking.py: Main script that captures video input, processes each frame to detect eyes, and estimates eye position.
+utils.py: Utility functions for drawing colored backgrounds and text on images.
 
-## Features
 
-- **Real-Time Eye Tracking:** Tracks and detects eye landmarks using MediaPipe's Face Mesh.
-- **Eye Position Estimation:** Estimates the position of the eye (Left, Right, Center) based on detected landmarks.
-- **Visual Feedback:** Displays eye tracking results and position estimation on the video feed.
-- **Customizable Output:** Draws detected eye regions and provides visual feedback using color-coded text.
+## Installation
+#### Clone the repository:
+```bash
+
+git clone https://github.com/your-repo/eye-tracking.git
+
 
 ## Requirements
 
