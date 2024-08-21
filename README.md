@@ -76,5 +76,5 @@ Ensure you have Python 3.x installed. The following packages are required:
 - **MediaPipe**: For providing a powerful library for facial landmark detection.
 - **OpenCV**: For its robust image processing capabilities.
 
-For issues or contributions, please open an issue or pull request on the [GitHub repository]([https://github.com/yourusername/eye-tracking](https://github.com/EsraaMeslam/-Real-Time-Eye-Tracking-and-Position-Estimation-Using-OpenCV-and-MediaPipe-)).
+
 
