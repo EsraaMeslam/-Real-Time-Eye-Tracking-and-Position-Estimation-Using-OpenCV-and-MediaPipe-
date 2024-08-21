@@ -29,7 +29,19 @@ pip install -r requirements.txt
 
 
 
-Installation
-Follow these steps to set up and run the application:
+#Installation
+#### Follow these steps to set up and run the application:
 
-Clone the Repository:
+##Clone the Repository:
+git clone <repository-url>
+
+## Navigate to the Project Directory:
+
+cd <project-directory>
+
+##Install Dependencies:
+
+
+pip install -r requirements.txt
+
+
