@@ -25,21 +25,11 @@ Install the dependencies using the following command:
 ```bash
 pip install -r requirements.txt
 
+## Installation
 
+1. **Clone the Repository:**
+   ```bash
+  git clone <repository-url>
 
-#Installation
-#### Follow these steps to set up and run the application:
-
-##Clone the Repository:
-git clone <repository-url>
-
-## Navigate to the Project Directory:
-
-cd <project-directory>
-
-##Install Dependencies:
-
-
-pip install -r requirements.txt
 
 
